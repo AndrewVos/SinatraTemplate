@@ -1,0 +1,13 @@
+= Sinatra Template
+
+== Installation
+Open up a terminal.
+	git clone git@github.com:AndrewVos/SinatraTemplate.git
+	mv SinatraTemplate <application_name>
+	cd <application name>
+
+== Rackup
+To run the site open up a terminal and navigate to your applications directory and run "rackup"
+
+== Testing
+To run rspec tests just use "autospec"
