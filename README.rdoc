@@ -7,8 +7,7 @@ Open up a terminal.
 	cd <application name>
 
 == Rackup
-To run the site open up a terminal and run "rackup" in your application directory. Your site will now be up and running at the following url:
-	http://localhost:9292
+To run the site open up a terminal and run "rackup" in your application directory. Your site will now be up and running at http://localhost:9292
 
 == Testing
 To run rspec tests just run "autospec" from your application directory.
