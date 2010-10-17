@@ -1,7 +1,7 @@
 ENV['RACK_ENV'] = 'test'
 
 require 'application'
-require 'spec'
+require 'rspec'
 require 'rack/test'
 
 describe Application do
